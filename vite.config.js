@@ -1,3 +1,5 @@
+import { defineConfig } from 'vite';
+
 export default defineConfig({
-  base: '/dalbit-yaksok-playground/',
+  base: '/dalbit-yaksok-playground/', 
 });
